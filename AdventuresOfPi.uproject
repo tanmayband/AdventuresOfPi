@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{BD5C61C7-4D29-F3C4-598E-80827D5D0886}",
+	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -8,6 +8,11 @@
 			"Name": "LowEntryExtStdLib",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
+		},
+		{
+			"Name": "Debug",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/739ccab666f245e08397bcbf668063ed"
 		}
 	]
 }
